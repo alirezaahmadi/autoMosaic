@@ -12,7 +12,7 @@
 
 import cv2 as cv
 import numpy as np
-from cv2 import xfeatures2d, Feature2D 
+from cv2 import Feature2D 
 from matplotlib import pyplot as plt
 
 def warpTwoImages(img1, img2, H):
